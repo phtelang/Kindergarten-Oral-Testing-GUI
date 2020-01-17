@@ -15,4 +15,4 @@ I have used the standard GUI toolkit of tkinter for generating and displaying th
 - Download the images(PNG files) and the PPT on your local folder.
 - Download the .ipynb (Jupyter file) and place it in the same folder as the source files.
 - Install the requirements using pip install -r requirements.txt. (Make sure you use Python 3.)
-- If you don't have Tkinter installed on your machine, please follow instructions here to install it.
+- If you don't have Tkinter installed on your machine, please follow instructions __[here](https://tkdocs.com/tutorial/install.html)__ to install it.
