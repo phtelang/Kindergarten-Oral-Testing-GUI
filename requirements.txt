@@ -1,0 +1,7 @@
+gTTS
+SpeechRecognition
+pygame
+Pillow
+pandas
+matplotlib
+pandastable
